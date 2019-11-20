@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Victor",
+        "lastName": "Lo",
+        "email": "LoVic@gmail.com",
+        "phone": "(559) 111-1111",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Alucard",
+        "lastName": "Vampir",
+        "email": "Vamps@gmail.com",
+        "phone": "(559) 555-5555",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Peter",
+        "lastName": "Griffin",
+        "email": "GiriffMan@gmail.com",
+        "phone": "(559) 777-7777",
+        "editing": false
+    }
+]
